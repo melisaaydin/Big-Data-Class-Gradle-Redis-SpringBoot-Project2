@@ -130,6 +130,6 @@ Projede üç ana veri deposu vardır:
    ./gradlew bootRun
    ```
 
-6. Uygulama `http://localhost:8080` adresinde çalışacaktır.
+6. Uygulama `http://localhost:8082` adresinde çalışacaktır.
 
 
