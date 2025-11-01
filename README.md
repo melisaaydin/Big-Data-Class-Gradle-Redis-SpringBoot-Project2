@@ -139,8 +139,3 @@ Projede üç ana veri deposu vardır:
 - Personel görsellerinin HDFS üzerinde doğru şekilde saklandığı ve getirildiği gösterilmelidir.  
 - Web sayfasında JOIN sonucu tablo biçiminde görünmelidir.  
 
----
-
-## 👩‍💻 Geliştirici
-**Melisa Aydın** – B221202002  
-Sakarya Üniversitesi – Yazılım Mühendisliği  
