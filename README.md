@@ -132,10 +132,4 @@ Projede üç ana veri deposu vardır:
 
 6. Uygulama `http://localhost:8080` adresinde çalışacaktır.
 
----
-
-## 💡 Notlar
-- Redis’in önbellek mekanizması, veri tabanına flush işlemi yaparak test edilmelidir.  
-- Personel görsellerinin HDFS üzerinde doğru şekilde saklandığı ve getirildiği gösterilmelidir.  
-- Web sayfasında JOIN sonucu tablo biçiminde görünmelidir.  
 
