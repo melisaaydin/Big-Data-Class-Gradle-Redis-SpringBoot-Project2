@@ -18,7 +18,6 @@ Redis – Bellek içi veri deposu; önbellekleme veya hızlı veri erişimi içi
 
 Apache Hadoop (HDFS) – Büyük veri kümelerinin dağıtık depolanması ve yönetimi.
 
-Lombok – Tekrarlayan kod yazımını azaltmak için kullanılır.
 
 Kurulum Adımları
 
